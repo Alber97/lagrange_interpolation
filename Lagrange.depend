@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583523026 source:c:\users\alber\desktop\klimek\interpolacja lagrange'a\lagrange\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
